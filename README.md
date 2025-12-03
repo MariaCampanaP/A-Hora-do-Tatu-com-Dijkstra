@@ -48,7 +48,8 @@ Este jogo implementa visualmente o famoso algoritmo:
 **Luna**
 - GitHub: [@Luna-Osti]([(https://github.com/Luna-Osti)])
 - LinkedIn: [Luna Osti de França](https://www.linkedin.com/in/luna-osti-de-frança-23961b321/)
-**Vallentina**
+
+**Maria Rita**
 - GitHub: [@MariaCampanaP]([https://github.com/MariaCampanaP])
 - LinkedIn: [Maria Rita Campana Peixoto](https://www.linkedin.com/in/maria-rita-campana/)
 
