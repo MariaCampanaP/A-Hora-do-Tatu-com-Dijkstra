@@ -22,3 +22,8 @@ Um jogo iterativo que junta o algoritmo de Dijkstra com o famoso jogo hora do ru
 - **Linguagem**: [Python, pygame]
 - **Algoritmo**: Dijkstra implementado do zero
 - **Design**: Pixel art
+
+## 🎯 Para jogar
+
+Aqui estamos disponibilizando os códigos e o jogo também, para jogar, só baixar o arquivo .zip e descompactar, você terá 2 pastas, uma dentro da outra, tire a pasta com o jogo de dentro da outra para que funcione e rode o código main no seu vscode/compilador
+**Bibliotecas**: pygame, os e numpy
